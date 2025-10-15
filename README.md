@@ -10,16 +10,16 @@ Kindly clone this repository, complete the assigned task, and upload the code to
 
 Tech stack used in this application is defined below.
 
-- **User Panel**
-    - Laravel
-    - Inertia
-    - Vue.js
-    - Tailwind CSS
-- **Admin Panel**
-    - Laravel
-    - Livewire
-    - AlpineJS
-    - Tailwind CSS
+-   **User Panel**
+    -   Laravel
+    -   Inertia
+    -   Vue.js
+    -   Tailwind CSS
+-   **Admin Panel**
+    -   Laravel
+    -   Livewire
+    -   AlpineJS
+    -   Tailwind CSS
 
 **Your Task:**
 
@@ -28,7 +28,6 @@ You are required to implement the following features in the application:
 ---
 
 ![User Dashboard](https://github.com/user-attachments/assets/749fe4bb-6d13-4e2a-ab64-f1f098c701d9)
-
 
 **User Dashboard:**
 
@@ -43,19 +42,26 @@ Create and update below pages in admin Panel
 ![Admin Skills](https://github.com/user-attachments/assets/111cbd00-2bc1-461a-b6e6-713c01da22fa)
 
 **Skills Management Page:**
-- Create a page that displays a table of skills.
-- Include a form to add new skills to the database.
+
+-   Create a page that displays a table of skills.
+-   Include a form to add new skills to the database.
 
 ---
 
 ![Admin Jobs](https://github.com/user-attachments/assets/e04f83bc-c602-498e-8a02-bbd60b677968)
 ![Admin Jobs List](https://github.com/user-attachments/assets/9c45b0fa-47d0-457f-995e-ac875aca37ee)
 
-
 **Job Postings Management Page:**
-- Develop a form for creating new job postings.
-- Update the job postings list page to dynamically display postings fetched from the database.
-- Add delete functionality for the job postings.
+
+-   Develop a form for creating new job postings.
+-   Update the job postings list page to dynamically display postings fetched from the database.
+-   Add delete functionality for the job postings.
+
+**Next Tasks:**
+
+-   Adding frontend Validation to forms.
+-   fixing login credentials and active tab issue .
+-   Seperation of folders for Admin / User.
 
 ---
 
